@@ -1,0 +1,7 @@
+newmtl Vol_7_1_Tiles
+map_Kd Vol_7_1_Tiles_Base_Color.png
+bump Vol_7_1_Tiles_Normal.png
+disp Vol_7_1_Tiles_Height.png
+Kd 1 1 1
+d 1
+

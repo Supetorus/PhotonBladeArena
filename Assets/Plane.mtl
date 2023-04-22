@@ -1,0 +1,8 @@
+newmtl Vol_35_3_Lava
+map_Kd Vol_35_3_Lava_Base_Color.png
+bump Vol_35_3_Lava_Normal.png
+disp Vol_35_3_Lava_Height.png
+map_Ke Vol_35_3_Lava_Emissive.png
+Kd 1 1 1
+d 1
+
